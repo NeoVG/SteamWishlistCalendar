@@ -23,7 +23,7 @@ Morbid Metal		2026-04-08
 Clair Obscur: Expedition 33		2025-04-24
 Windblown		2024-10-24
 VALKYRIE ELYSIUM		2022-11-11
-Enter the Chronosphere		2026-12-31
+Enter the Chronosphere		2026-06-30
 Never's End		2026-12-31
 Split Fiction		2025-03-06
 Voidling Bound		2026-06-09
@@ -57,6 +57,7 @@ CleanFall		2025-08-08
 Blightstone		2026-01-20
 Sniper Dan		2026-12-31
 Lost in Prayer		2025-07-15
+Slay the Spire 2		2026-03-05
 Heretical		2024-10-30
 Artificial Detective		2027-12-31
 Deep Fringe		2026-01-15
@@ -65,6 +66,7 @@ Witchfire		2024-09-23
 Assassin’s Creed Shadows		2025-03-20
 BRIGANDINE ABYSS		2026-12-31
 Cinderia		2026-03-30
+Deadzone: Rogue		2025-08-11
 刻印战记1：法利兹传		2024-12-20
 Kats Trigger		2025-12-18
 Cubic Cosmos		2025-09-17
@@ -72,10 +74,11 @@ Slain 2: The Beast Within		2026-12-31
 Silberheim Evolving Card Game		2026-09-30
 Ravenswatch - Merlin		2026-01-19
 NOMIA		2025-10-10
-Samson		2026-04-08
+S-mail		2026-04-24
 Neath		2026-12-31
 Danganronpa 2x2		2026-12-31
 007 First Light		2026-05-27
+Divineblaze : March Tactics		2026-04-22
 Tiny Delivery		2026-09-30
 ABYSS REBEL		2026-12-31
 Spot Zero		2026-12-31
