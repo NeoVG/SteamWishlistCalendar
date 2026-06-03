@@ -6,11 +6,13 @@ Farthest Frontier		2025-10-23
 Gloomwood		2022-09-05
 Deliver Us Mars		2023-02-02
 Nivalis		2026-12-31
+ILL		2027-12-31
 Tropico 7		2026-12-31
 Titan Station		2022-11-11
 ARMORED CORE™ VI FIRES OF RUBICON™		2023-08-24
 1348 Ex Voto		2026-03-12
 Age of Mythology: Retold		2024-09-04
+The Lost Wild		2027-12-31
 Subnautica 2		2026-05-14
 The Utility Room		2023-02-06
 Cronos: The New Dawn		2025-09-05
@@ -20,7 +22,7 @@ Ardem		2026-12-31
 Fatekeeper		2026-06-02
 Tiny Glade		2024-09-23
 Chronicles: Medieval		2026-12-31
-ACE COMBAT 8: WINGS OF THEVE		2026-12-31
+ACE COMBAT 8: WINGS OF THEVE		2026-10-01
 Black Myth: Wukong		2024-08-20
 METAL GEAR SOLID Δ: SNAKE EATER		2025-08-28
 Forza Horizon 6		2026-05-19
@@ -34,7 +36,8 @@ SILENT HILL f		2025-09-25
 PVKK: Planetenverteidigungskanonenkommandant		2027-12-31
 EXODUS		2027-12-31
 Transport Fever 3		2026-12-31
-CONTROL Resonant		2026-12-31
+Tomb Raider: Legacy of Atlantis		2027-02-12
+CONTROL Resonant		2026-09-24
 The Expanse: Osiris Reborn		2027-06-30
 The Blood of Dawnwalker		2026-09-02
 Assassin's Creed Black Flag Resynced		2026-07-09
