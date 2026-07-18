@@ -6,6 +6,7 @@ Farthest Frontier		2025-10-23
 Gloomwood		2022-09-05
 Deliver Us Mars		2023-02-02
 Nivalis Nights		2026-09-29
+ZeroSpace		2026-07-20
 ILL		2027-12-31
 Tropico 7		2026-12-31
 Titan Station		2022-11-11
@@ -25,13 +26,16 @@ ACE COMBAT 8: WINGS OF THEVE		2026-10-01
 Black Myth: Wukong		2024-08-20
 Dystopika		2024-06-21
 METAL GEAR SOLID Δ: SNAKE EATER		2025-08-28
+G-Rebels		2026-07-20
 Citadelum		2024-10-17
 Resonance: A Plague Tale Legacy		2026-08-27
 Cthulhu: The Cosmic Abyss		2026-04-16
+Halo: Campaign Evolved		2026-07-28
 The Sinking City 2		2026-08-18
 Citystate Metropolis		2026-12-31
 ZERO PARADES: For Dead Spies		2026-05-21
 SILENT HILL f		2025-09-25
+IRON NEST: Heavy Turret Simulator		2026-08-06
 PVKK: Planetenverteidigungskanonenkommandant		2027-12-31
 EXODUS		2027-12-31
 Transport Fever 3		2026-12-31
