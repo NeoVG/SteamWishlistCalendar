@@ -27,9 +27,13 @@ Black Myth: Wukong		2024-08-20
 Dystopika		2024-06-21
 METAL GEAR SOLID Δ: SNAKE EATER		2025-08-28
 G-Rebels		2026-07-20
+Dimhaven - The Lost Source		2026-06-23
+Diablo II: Resurrected – Infernal Edition		2026-02-11
 Citadelum		2024-10-17
+Path of Exile 2		2024-12-06
 Resonance: A Plague Tale Legacy		2026-08-27
 Cthulhu: The Cosmic Abyss		2026-04-16
+Fable		2027-02-23
 Halo: Campaign Evolved		2026-07-28
 The Sinking City 2		2026-08-18
 Citystate Metropolis		2026-12-31
@@ -43,5 +47,4 @@ Tomb Raider: Legacy of Atlantis		2027-02-12
 CONTROL Resonant		2026-09-24
 The Expanse: Osiris Reborn		2027-06-30
 The Blood of Dawnwalker		2026-09-02
-Assassin's Creed Black Flag Resynced		2026-07-09
 007 First Light		2026-05-26
