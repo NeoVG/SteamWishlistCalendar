@@ -43,7 +43,6 @@ PVKK: Planetenverteidigungskanonenkommandant		2027-12-31
 EXODUS		2027-04-07
 Transport Fever 3		2026-09-29
 Tomb Raider: Legacy of Atlantis		2027-02-12
-CONTROL Resonant		2026-09-24
 The Expanse: Osiris Reborn		2027-06-30
 The Blood of Dawnwalker		2026-09-02
 1666: Amsterdam		2026-08-25
