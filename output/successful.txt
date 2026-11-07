@@ -12,7 +12,6 @@ Tropico 7		2027-01-28
 Titan Station		2022-11-11
 ARMORED CORE™ VI FIRES OF RUBICON™		2023-08-24
 1348 Ex Voto		2026-03-12
-Age of Mythology: Retold		2024-09-04
 The Lost Wild		2027-12-31
 The Utility Room		2023-02-06
 Cronos: The New Dawn		2025-09-05
@@ -31,10 +30,7 @@ METAL GEAR SOLID Δ: SNAKE EATER		2025-08-28
 Diablo II: Resurrected – Infernal Edition		2026-02-11
 Citadelum		2024-10-17
 Path of Exile 2		2024-12-06
-Resonance: A Plague Tale Legacy		2026-08-27
-Cthulhu: The Cosmic Abyss		2026-04-16
 Fable		2027-02-23
-Halo: Campaign Evolved		2026-07-28
 The Sinking City 2		2026-08-18
 Citystate Metropolis		2026-12-31
 ZERO PARADES: Director's Cut		2026-05-21
