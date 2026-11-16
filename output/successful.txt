@@ -37,6 +37,7 @@ ZERO PARADES: Director's Cut		2026-05-21
 IRON NEST: Heavy Turret Simulator		2026-08-06
 PVKK: Planetenverteidigungskanonenkommandant		2027-12-31
 EXODUS		2027-04-07
+SuperCitycon		2026-12-10
 Transport Fever 3		2026-09-29
 Tomb Raider: Legacy of Atlantis		2027-02-12
 Warhammer 40,000: Dark Heresy		2027-01-28
