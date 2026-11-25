@@ -6,6 +6,7 @@ Shadows of Doubt		2024-09-26
 Farthest Frontier		2025-10-23
 Gloomwood		2022-09-05
 Deliver Us Mars		2023-02-02
+Militsioner		2027-12-31
 Nivalis Nights		2026-09-29
 ZeroSpace		2026-07-20
 ILL		2027-12-31
@@ -29,12 +30,14 @@ Black Myth: Wukong		2024-08-20
 Dystopika		2024-06-21
 METAL GEAR SOLID Δ: SNAKE EATER		2025-08-28
 Diablo II: Resurrected – Infernal Edition		2026-02-11
+METRO 2039		2027-02-04
 Citadelum		2024-10-17
 Path of Exile 2		2024-12-06
 Fable		2027-02-23
 The Sinking City 2		2026-08-18
 Citystate Metropolis		2026-12-10
 ZERO PARADES: Director's Cut		2026-05-21
+ONTOS		2027-12-31
 IRON NEST: Heavy Turret Simulator		2026-08-06
 PVKK: Planetenverteidigungskanonenkommandant		2027-12-31
 EXODUS		2027-04-07
@@ -46,3 +49,4 @@ The Expanse: Osiris Reborn		2027-06-30
 The Blood of Dawnwalker		2026-09-02
 1666: Amsterdam		2026-08-25
 Squadron 42		2027-06-30
+Resident Evil Veronica		2027-12-31
